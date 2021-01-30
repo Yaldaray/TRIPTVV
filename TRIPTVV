@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 SD
+http://rv.therevenge.co:80/live/242424/242424/80394.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 3 HQ+
+http://zn.myseries.xyz:8080/suayip/suayip1234/44056?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Show TV HD
+http://tvog.eu:8080/ibrahim/08.03.2020/795?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
